@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  leoleo:
+    image: leoleo
+    build:
+      context: .
+      dockerfile: ./Dockerfile
