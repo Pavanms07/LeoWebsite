@@ -3,7 +3,7 @@ terraform {
     organization = "leoai"
 
     workspaces {
-      name = "LeoWebsite"
+      name = "LeoWebsites"
     }
   }
 }
